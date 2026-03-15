@@ -1,9 +1,8 @@
-
+![Image Alt](https://github.com/dentunho/OpenGradient-article--1/blob/c3d48ca40b623bdf63acd499b733f3b22031482c/HDV_KO-a0AAoPdz.jpg)
 
 ## ⚙️ Core Technology of OpenGradient
 
 Some of the key components of the OpenGradient ecosystem:
- ![Image Alt](https://github.com/dentunho/OpenGradient-article--1/blob/c3d48ca40b623bdf63acd499b733f3b22031482c/HDV_KO-a0AAoPdz.jpg)
 
 ### 1️⃣ 🌐 OpenGradient Network
 
