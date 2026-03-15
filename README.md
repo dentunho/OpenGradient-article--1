@@ -10,7 +10,7 @@ Some of the key components of the OpenGradient ecosystem:
 - **Compute nodes** execute AI models across the network
 - AI execution can be **verified on-chain** for transparency and trust
 
----
+
 
 ### 2️⃣ 🧠 Model Hub
 
@@ -20,7 +20,7 @@ A decentralized **AI marketplace** where users can:
 - 🚀 Deploy AI applications  
 - 💰 Monetize and earn from their AI models  
 
----
+
 
 ### 3️⃣ 🧬 MemSync
 
